@@ -20,6 +20,7 @@ function App() {
                         <span className="text-xl font-bold">Catalogue de Films</span>
                         </Link>
                 </header>
+                <p> conflit haithem</p>
                 <main className="p-0">
             <Routes>
                 <Route path="/" element={<Home />} />
